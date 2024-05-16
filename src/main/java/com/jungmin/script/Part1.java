@@ -17,7 +17,7 @@ public class Part1 {
       TODO: Q 1-2. Users 테이블의 구조를 보기위한 SQL을 작성해주세요.
           - 요구사항에 맞는 Users 테이블을 작성해야만, 테스트를 통과합니다.
   */
-  public static final String PART1_2 = "DESC Users";
+  public static final String PART1_2 = "DESCRIBE Users";
 
   /*
   ----------------------------------------------------------------------------------------------
